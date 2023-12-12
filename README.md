@@ -1,4 +1,4 @@
-# MVUU-T
+# More Vanilla UU-Tex
 Addon for UU-tex.
 
 Do you like UU-tex but want a more vanilla look? This addon is for you!
