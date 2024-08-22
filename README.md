@@ -5,6 +5,8 @@ Do you like UU-tex but want a more vanilla look? This addon is for you!
 
 The addon replaces some “ugly” components (motors, pumps, emitters, sensors) with a more “vanilla” version. Colors and style from UU-tex, shape like vanilla!
 
+### more updates soon!
+
 ## Don't forget to install the original texture pack
 
 [UU-Tex] (https://github.com/Jimbno/UU-Tex)
@@ -12,7 +14,7 @@ The addon replaces some “ugly” components (motors, pumps, emitters, sensors)
 ### Images
 
 LV-UHV motors and pumps *(robot arms for contrast and comparison)* <br>
-<img src="https://media.discordapp.net/attachments/636969450356080662/1184069617484845096/image.png?ex=658aa1c3&is=65782cc3&hm=939e564dabf788ac19307466d9b92dd4ddd40c679d84c7aff658002921305193&=&format=webp&quality=lossless">
+<img src="https://cdn.discordapp.com/attachments/636969450356080662/1184069617484845096/image.png?ex=66c85b43&is=66c709c3&hm=6e6e9a663ceeaf94704f1199085c33734a3b3fb7d4c51154a5ffabe858faa3c3&">
 
 UEV-MAX motors and pumps *(UMV and MAX have animation)* <br>
-<img src="https://media.discordapp.net/attachments/636969450356080662/1184070678383689790/image.png?ex=658aa2c0&is=65782dc0&hm=31f7f730f52b703e12721d2804114614054f6dc93d364f6d439209f5560107a8&=&format=webp&quality=lossless">
+<img src="https://cdn.discordapp.com/attachments/636969450356080662/1184070678383689790/image.png?ex=66c85c40&is=66c70ac0&hm=377ff3938f7a1ae3fefa0252a7be33ee6218c0d66140b3413f2d07d15565b3b3&">
