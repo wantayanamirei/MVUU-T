@@ -9,7 +9,7 @@ The addon replaces some “ugly” components (motors, pumps, emitters, sensors)
 
 ## Don't forget to install the original texture pack
 
-[UU-Tex] (https://github.com/Jimbno/UU-Tex)
+[UU-Tex](https://github.com/Jimbno/UU-Tex)
 
 ### Images
 
