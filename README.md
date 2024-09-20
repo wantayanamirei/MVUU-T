@@ -17,4 +17,4 @@ LV-UHV motors and pumps *(robot arms for contrast and comparison)* <br>
 <img src="https://cdn.discordapp.com/attachments/636969450356080662/1184069617484845096/image.png?ex=66c85b43&is=66c709c3&hm=6e6e9a663ceeaf94704f1199085c33734a3b3fb7d4c51154a5ffabe858faa3c3&">
 
 UEV-MAX motors and pumps *(UMV and MAX have animation)* <br>
-<img src="https://cdn.discordapp.com/attachments/636969450356080662/1184070678383689790/image.png?ex=66c85c40&is=66c70ac0&hm=377ff3938f7a1ae3fefa0252a7be33ee6218c0d66140b3413f2d07d15565b3b3&">
+<img src="https://imgur.com/a/d6tP6Qw">
