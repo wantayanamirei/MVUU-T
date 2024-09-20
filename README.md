@@ -17,5 +17,5 @@ LV-UHV motors and pumps *(robot arms for contrast and comparison)*<br>
 ![изображение](https://github.com/user-attachments/assets/66be0ea5-e8ba-47da-9288-eb7cf8734067)
 
 
-UEV-MAX motors and pumps *(UMV and MAX have animation)* <br>
+UEV-MAX motors and pumps<br>
 ![mvuut](https://github.com/user-attachments/assets/6351c77d-778e-452a-89a1-7836c4f1b0df)
