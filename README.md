@@ -13,8 +13,9 @@ The addon replaces some “ugly” components (motors, pumps, emitters, sensors)
 
 ### Images
 
-LV-UHV motors and pumps *(robot arms for contrast and comparison)* <br>
-<img src="https://cdn.discordapp.com/attachments/636969450356080662/1184069617484845096/image.png?ex=66c85b43&is=66c709c3&hm=6e6e9a663ceeaf94704f1199085c33734a3b3fb7d4c51154a5ffabe858faa3c3&">
+LV-UHV motors and pumps *(robot arms for contrast and comparison)*<br>
+![изображение](https://github.com/user-attachments/assets/66be0ea5-e8ba-47da-9288-eb7cf8734067)
+
 
 UEV-MAX motors and pumps *(UMV and MAX have animation)* <br>
-<img src="https://imgur.com/a/d6tP6Qw">
+![mvuut](https://github.com/user-attachments/assets/6351c77d-778e-452a-89a1-7836c4f1b0df)
